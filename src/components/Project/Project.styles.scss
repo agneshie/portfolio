@@ -1,0 +1,26 @@
+.project-container {
+  background-color: #224273;
+  color: #F3F3F3;
+}
+
+.project-heading {
+  font-size: 4.5rem;
+  font-weight: 700;
+  margin: 0;
+  padding-top: 7rem;
+}
+
+.project-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 350px));
+  grid-gap: 2rem;
+  justify-content: center;
+}
+
+.project-border {
+  background-image: url("../../images/swish_end.png");
+  background-size: 100% 100px;
+  background-repeat: no-repeat;
+  height: 100px;
+  margin-top: 4.5rem;
+}

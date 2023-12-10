@@ -1,0 +1,22 @@
+.footer-container {
+  background-color: #3868B0;
+  height: 100px;
+  padding-top: 2rem;
+}
+
+.footer-details {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 350px));
+  grid-gap: 2rem;
+  justify-content: space-between;
+}
+
+.footer-info {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.footer-socials {
+  display: flex;
+  justify-content: flex-end;
+}

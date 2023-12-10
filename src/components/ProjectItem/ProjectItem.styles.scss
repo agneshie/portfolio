@@ -1,0 +1,34 @@
+.project-item {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  //background-color: #95dada;
+  border: 1px solid rgba(229, 231, 235);
+  border-radius: 5px;
+  padding: 25px;
+  cursor: default;
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+  margin-top: 4.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  //box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.175);
+
+  &:hover {
+    transform: scale(1.03);
+  }
+}
+
+.project-techStack {
+  display: flex;
+}
+
+.project-links {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0;
+}
+
+
+
