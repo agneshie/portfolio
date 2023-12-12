@@ -25,7 +25,7 @@ export const NAV_LINKS = [
   {
     id: 1,
     title: "HOME",
-    url: "/"
+    url: "https://agneshie.github.io/portfolio/"
   },
   {
     id: 2,
