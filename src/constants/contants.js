@@ -1,7 +1,4 @@
 import profileUrl from "../images/profile.png";
-// import linkedInIcon from "../images/linkedin.svg";
-// import githubIcon from "../images/github.svg";
-// import instagramIcon from "../images/instagram.svg";
 import { ReactComponent as LinkedInSvg } from "../images/linkedin.svg";
 import { ReactComponent as GithubSvg } from "../images/github.svg";
 import { ReactComponent as InstagramSvg } from "../images/instagram.svg";
@@ -18,6 +15,13 @@ export const HERO_DETAILS = {
   name: "Agnes Therese",
   position: "A Full Stack Developer",
   description: "I am passionate to translate business requirements into quality code."
+}
+
+
+export const LOGO_LINK = {
+  id: 1,
+  title: "ANicer",
+  url: "https://agneshie.github.io/portfolio/"
 }
 
 

@@ -1,6 +1,6 @@
 import Navlink from "../Navlink/Navlink.component";
 
-import { NAV_LINKS } from "../../constants/contants";
+import { LOGO_LINK, NAV_LINKS } from "../../constants/contants";
 
 import "./Navigation.styles.scss";
 
@@ -9,7 +9,7 @@ const Navigation = () => {
     <div className="navigation-container">
       <div className="container nav-bar">
         <div className="logo-container">
-          <h2>ANicer</h2>
+          <Navlink key={LOGO_LINK.id} navlink={LOGO_LINK} />
         </div>
         <div className="nav-items">
           {
