@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a8eb7418.css",
+    "main.js": "/portfolio/static/js/main.eb3250a9.js",
+    "static/js/787.128fc6e9.chunk.js": "/portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/profile.png": "/portfolio/static/media/profile.719a6aadb796bcd89f07.png",
+    "static/media/brush-stroke.png": "/portfolio/static/media/brush-stroke.04765dac9f5e8f61d5cc.png",
+    "static/media/swish_start.png": "/portfolio/static/media/swish_start.5c2330f416cf12c156f6.png",
+    "static/media/swish_end.png": "/portfolio/static/media/swish_end.dc4fb967164ff41293d1.png",
+    "static/media/postgresql.svg": "/portfolio/static/media/postgresql.e2b4f7c2c331146da2d3e16cc82fa3f0.svg",
+    "static/media/nodejs.svg": "/portfolio/static/media/nodejs.8fe8a79dbcdb8f217c0fd93e9137d52b.svg",
+    "static/media/expressjs.svg": "/portfolio/static/media/expressjs.2812782e3114a5ee26fbdaed99842b65.svg",
+    "static/media/react.svg": "/portfolio/static/media/react.806b128ba9d95f450472602c52353960.svg",
+    "static/media/instagram.svg": "/portfolio/static/media/instagram.3c37557ae3ffb0dae1c3401f78612b3d.svg",
+    "static/media/redux.svg": "/portfolio/static/media/redux.4fed73e88fcd268088f4226f9ecc33aa.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/github.svg": "/portfolio/static/media/github.4d91c816baa2a4aed6c345966153f6b9.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.a7c5b1c0eed2d97d54d1d3ec86ef23c9.svg",
+    "static/media/box-arrow-up-right.svg": "/portfolio/static/media/box-arrow-up-right.779be301bef6855c0f0b000bafa2cafd.svg",
+    "static/media/firebase.svg": "/portfolio/static/media/firebase.cb6926fa457dac969a9903ffdc9928e6.svg",
+    "main.a8eb7418.css.map": "/portfolio/static/css/main.a8eb7418.css.map",
+    "main.eb3250a9.js.map": "/portfolio/static/js/main.eb3250a9.js.map",
+    "787.128fc6e9.chunk.js.map": "/portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8eb7418.css",
+    "static/js/main.eb3250a9.js"
+  ]
+}
