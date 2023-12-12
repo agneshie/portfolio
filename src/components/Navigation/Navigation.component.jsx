@@ -9,7 +9,7 @@ const Navigation = () => {
     <div className="navigation-container">
       <div className="container nav-bar">
         <div className="logo-container">
-          <h2>I am navbar</h2>
+          <h2>ANicer</h2>
         </div>
         <div className="nav-items">
           {

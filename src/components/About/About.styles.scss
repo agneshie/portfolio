@@ -1,13 +1,4 @@
 .about-container {
-  //background-color: #8DC2E6;
-  //background-color: #EFAEB1;
-  //position: absolute;
-  
-  //background-color: #CAE1F5;
-  //background-color: #97C6E9;
-  //background-color: #AAD1EE;
-  //background-color: white;
-  //height: 100vh;
   color:#0a192f;
 }
 
@@ -23,11 +14,9 @@
   grid-template-columns: repeat(auto-fit, minmax(300px, 600px));
   grid-gap: 2rem;
   justify-content: center;
-  
 }
 
 .about-profile {
-  //width: 50%;
   margin: 0;
 }
 
@@ -38,8 +27,6 @@
 .about-me {
   text-align: left;
   line-height: 1.5;
-  //width: 50%;
-  // border: 10px solid blue;
 }
 
 .about-me > h3 {

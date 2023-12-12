@@ -85,19 +85,19 @@ export const PROJECTS = [
         id: 1,
         name: "React",
         icon: <ReactSvg />,
-        url: "https://github.com/agneshie",
+        url: "https://react.dev/",
       },
       {
         id: 2,
         name: "Redux",
         icon: <ReduxSvg />,
-        url: "https://github.com/agneshie",
+        url: "https://redux.js.org/",
       },
       {
         id: 3,
         name: "Firebase",
         icon: <FirebaseSvg />,
-        url: "https://github.com/agneshie"
+        url: "https://firebase.google.com/"
       }
 
     ],
@@ -127,25 +127,25 @@ export const PROJECTS = [
         id: 1,
         name: "React",
         icon: <ReactSvg />,
-        url: "https://github.com/agneshie",
+        url: "https://react.dev/",
       },
       {
         id: 2,
         name: "Node.js",
         icon: <NodeJsSvg />,
-        url: "https://github.com/agneshie"
+        url: "https://nodejs.org/en"
       },
       {
         id: 3,
         name: "Express.js",
         icon: <ExpressJsSvg />,
-        url: "https://github.com/agneshie",
+        url: "https://expressjs.com/",
       },
       {
         id: 4,
         name: "PostgreSQL",
         icon: <PostgreSqlSvg />,
-        url: "https://github.com/agneshie",
+        url: "https://www.postgresql.org/",
       },
     ],
 

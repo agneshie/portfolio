@@ -5,9 +5,10 @@
 }
 
 .footer-details {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 350px));
-  grid-gap: 2rem;
+  // display: grid;
+  // grid-template-columns: repeat(auto-fit, minmax(300px, 350px));
+  // grid-gap: 2rem;
+  display: flex;
   justify-content: space-between;
 }
 

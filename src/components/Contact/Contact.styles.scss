@@ -4,7 +4,7 @@
 }
 
 .contact-heading {
-  font-size: 4.5rem;
+  font-size: 4.5vmax;
   font-weight: 700;
   margin: 0;
   padding-top: 7rem;
@@ -12,26 +12,26 @@
 
 .btn {
   padding: 0.5rem 1rem;
-  font-size: 1.25rem;
+  font-size: 1.5vmax;
   line-height: 1.5;
   border-radius: 0.3rem;
+  margin-top: 4.5rem;
 }
 
 .btn-primary {
-  color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  color: #F3F3F3;
+  background-color: #224273;
+  border-color: #224273;
 }
 
 .btn-primary:hover {
-  color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+  color: #F3F3F3;
+  background-color: #3868B0;
+  border-color: #3868B0;
 }
 
 .btn-primary:focus, .btn-primary.focus {
-  color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
-  box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
+  color: #F3F3F3;
+  background-color: #3868B0;
+  border-color: #3868B0;
 }
