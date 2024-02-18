@@ -1,4 +1,4 @@
-import profileUrl from "../images/profile.png";
+import profileUrl from "../images/profile.jpg";
 import { ReactComponent as LinkedInSvg } from "../images/linkedin.svg";
 import { ReactComponent as GithubSvg } from "../images/github.svg";
 import { ReactComponent as InstagramSvg } from "../images/instagram.svg";
@@ -12,9 +12,9 @@ import { ReactComponent as PostgreSqlSvg } from "../images/postgresql.svg";
 
 
 export const HERO_DETAILS = {
-  name: "Agnes Therese",
-  position: "A Full Stack Developer",
-  description: "I am passionate to translate business requirements into quality code."
+  name: "Agnes",
+  position: "A Software Engineer",
+  description: "I create functional and user-friendly applications to help businesses grow and achieve their desired outcome."
 }
 
 
@@ -52,9 +52,9 @@ export const NAV_LINKS = [
 export const ABOUT_DETAILS = {
   heading: "I'm Agnes.",
   profileUrl: profileUrl,
-  subHeading: "I'm a Full Stack Web Developer based in Makati City, Philippines.",
-  description: "Have worked for more than 10+ years in system analysis, development, enhancement, and production support for the essential systems of the bank.",
-  hobby: "Outside work, I spend my free time learning the technologies for web development.",
+  subHeading: "I'm a Software Engineer based in Makati City, Philippines.",
+  description: "Have worked for more than 10+ years in system analysis, development, enhancement, and production support. I create functional and user-friendly applications to help businesses grow and achieve their desired outcome",
+  hobby: "Outside work, I like to travel, experience new cuisines, and I appreciate art in all forms.",
 }
 
 export const SOCIALS = [

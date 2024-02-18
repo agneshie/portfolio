@@ -11,7 +11,7 @@ const Footer = () => {
     <footer id="footer" className="footer-container">
       <div className="container footer-details">
         <div className="footer-info">
-          <span>© {currentYear} Agnes Therese Nicer</span>
+          <span>© {currentYear} ANICER</span>
         </div>
 
         <div className="footer-socials">
