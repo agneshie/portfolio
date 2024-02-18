@@ -53,7 +53,7 @@ export const ABOUT_DETAILS = {
   heading: "I'm Agnes.",
   profileUrl: profileUrl,
   subHeading: "I'm a Software Engineer based in Makati City, Philippines.",
-  description: "Have worked for more than 10+ years in system analysis, development, enhancement, and production support. I create functional and user-friendly applications to help businesses grow and achieve their desired outcome",
+  description: "Have worked for more than 10+ years in system analysis, development, enhancement, and production support. I create functional and user-friendly applications to help businesses grow and achieve their desired outcome.",
   hobby: "Outside work, I like to travel, experience new cuisines, and I appreciate art in all forms.",
 }
 
